@@ -1,2 +1,3 @@
 # Hemo2023
- Projeto de cadastro de doador curso Introdução a linguagem Javascript - 70 horas - Senac
+ -> Projeto de cadastro de doador.
+ -> Referente ao curso: Introdução a linguagem de programação Javascript - 70 horas - Senac
