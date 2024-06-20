@@ -58,13 +58,8 @@ while (true) {
     
         }
         
-
-      
-
     question('Pressione ENTER para continuar...')
     
-   
-
 
 }
 
